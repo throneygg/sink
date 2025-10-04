@@ -11,6 +11,9 @@
     "nodejs_compat"
   ],
   "keep_vars": true,
+  "observability": {
+    "enabled": true
+  },
   "upload_source_maps": true,
   "ai": {
     "binding": "AI"
