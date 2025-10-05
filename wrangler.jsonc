@@ -20,8 +20,8 @@
   },
   "analytics_engine_datasets": [
     {
-      "binding": "GO_ANALYTICS_ENGINE",
-      "dataset": "go_analytics"
+      "binding": "ANALYTICS",
+      "dataset": "sink"
     }
   ],
   "kv_namespaces": [
